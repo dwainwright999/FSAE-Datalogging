@@ -1,0 +1,18 @@
+Parts
+-Datalogging shield
+-Adafruit feather
+-Accelerometer
+-SD card
+-Battery
+-Pressure Thransducer
+
+
+Data
+-Throttle Position (CAN)
+-Fuel Pressure (Starvation)(CAN)
+-RPM (CAN)
+-Acceleration (x,y,z)
+-Wheel Speed (Change F to R) (CAN)
+-Brake Light
+-DRS state (CAN)
+-Oil Pressure(CAN)
